@@ -1,6 +1,7 @@
 # Advanced_ML_project
 
 Project for the Advanced Machine Learning class of 2023-2024 at ENSAE teached by Mr.Stromme.
+
 Group members : Elias Jeannot and Anthony Ivanier
 
 The goal of the project is to implement two methods (CNN and landmarks-based approaches) to sign language recognition.
