@@ -1,6 +1,6 @@
 # Advanced_ML_project
 
-Project for the Advanced Machine Learning class of 2023-2024 at ENSAE teached by Mr.Stromme.
+Project for the Advanced Machine Learning class of 2023-2024 at ENSAE. Taught by Mr.Stromme.
 
 Group members : Elias Jeannot and Anthony Ivanier
 
