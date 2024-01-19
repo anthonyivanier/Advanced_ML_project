@@ -14,6 +14,6 @@ Own_CNN is the first notebook of the project. It's goal is to help understand wh
 
 CNN_train countains the code to apply CNN to the MNIST dataset.
 
-recuperation_donnees countains the creation of our own dataset.
+data_recovery.ipynb countains the creation of our own dataset.
 
-analyse_donnees countains the application of a NN on our dataset.
+data_analysis.ipynb countains the application of a NN on our dataset.
